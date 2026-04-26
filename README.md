@@ -50,4 +50,3 @@ Before implementing these assets, developers and designers must review the docum
 
 ---
 *Property of DeepMerger. Unauthorized modification of source vectors is strictly prohibited.*
-```
