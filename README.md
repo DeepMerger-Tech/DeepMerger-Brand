@@ -46,7 +46,7 @@ Use `.png` and `.ico` files **only** when explicitly required by external platfo
 Before implementing these assets, developers and designers must review the documentation located in the `/docs` directory:
 
 1. **[Brand Guidelines](./docs/BRAND_GUIDELINES.md):** Rules on clear space, forbidden alterations, and the monochromatic OKLCH color system.
-2. **[Mathematical & Algorithmic Blueprint](./docs/Mathematical_Algorithmic_Blueprint.md):** The technical specification of the Cartesian coordinate space and cubic Bézier curves that form the logo.
+2. **[Mathematical & Algorithmic Blueprint](./docs/Mathematical & Algorithmic Blueprint.md):** The technical specification of the Cartesian coordinate space and cubic Bézier curves that form the logo.
 
 ---
 *Property of DeepMerger. Unauthorized modification of source vectors is strictly prohibited.*
